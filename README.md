@@ -66,7 +66,7 @@ TOTAL AMOUNT:                                               ₹1614.83
 ```
 
 ## Author
-[Your Name]
+Aaryan
 
 ## Hackathon
 BitBuilders Fun Code Race
